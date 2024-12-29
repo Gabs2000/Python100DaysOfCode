@@ -1,19 +1,33 @@
 # Python100DaysOfCode
-Python 100 Days of Code Course from Udemy Bootcamp.
+This repository documents my journey through the **Python 100 Days of Code Course** on Udemy Bootcamp, led by Dr. Angela Yu (Developer and Lead Instructor).
+
+Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps! [Link to Course](https://www.udemy.com/course/100-days-of-code/)
 
 This repository documents my progress through a 100 days of code challenge focused on masterig the Python programming language.
 
+## About the Course
+
 * **Goal:** To consistently improve my Python skills through daily coding practice and learning.
 * **Approach:** 
-    * Daily coding exercises and projects.
-    * Focus on core Python concepts, data structures, and algorithms.
-    * Explore various Python libraries and frameworks (e.g., NumPy, Pandas, Django, Flask).
-    * Learn from online resources, tutorials, and books.
-    * Document my progress, challenges, and learnings in this repository.
+    * Learn automation, game, app and web development, data science and machine learning all using Python.
+    * Program in Python professionally.
+    * Learn Selenium, Beautiful Soup, Request, Flask, Pandas, NumPy, Scikit Learn, Plotly, and Matplotlib.
+    * Create a portfolio of 100 Python projects to apply for developer jobs.
+    * Build websites and web apps with Python.
+    * Use Python for data science and machine learning.
+    * Build games like Blackjack, Pong and Snake using Python.
+    * Build GUIs and Desktop applications with Python.
+* **This Course Includes:**
+    * 52 Hours of On-Demand video.
+    * 23 Code Exercises.
+    * Comprehensive Tasks.
+    * 255 Informative Articles.
+    * 150 Downloadable Sources.
+    * Certificate of Completion.
 
 ## Structure
 
-This repository is organized with a folder for each day of the challenge, from beginner to professional excercises.
+This repository is organized into folders (Beginner, Intermediate, Advanced, and Professional Portfolio). Each folder contains daily subfolders (D1-D100) with corresponding task files (T1.py, T2.py, etc.).
 
 * **Beginner:**
     * `D1`: Variables
@@ -148,7 +162,7 @@ I welcome feedback and contributions from the community. Feel free to:
 
 * **Fork this repository:** Start your own 100 Days of Code journey.
 * **Submit issues:** Report any bugs or suggest improvements.
-* **Create pull requests:** Contribute your own solutions or enhancements.
+* **Create pull requests:** Contribute your own solutions or enhancements (GitHub Discussions & Discord Server).
 
 ## Let's learn and grow together!
 
