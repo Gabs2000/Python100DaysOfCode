@@ -165,5 +165,6 @@ I welcome feedback and contributions from the community. Feel free to:
 * **Create pull requests:** Contribute your own solutions or enhancements (GitHub Discussions & Discord Server).
 
 ## Let's learn and grow together!
+[Python Official Documentation](https://docs.python.org)
 
 **Gabs2000**
