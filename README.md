@@ -30,110 +30,110 @@ This repository documents my progress through a 100 days of code challenge focus
 This repository is organized into folders (Beginner, Intermediate, Advanced, and Professional Portfolio). Each folder contains daily subfolders (D1-D100) with corresponding task files (T1.py, T2.py, etc.).
 
 * **Beginner:**
-    * `D1`: Variables
-    * `D2`: String manipulation
-    * `D3`: Input and print functions
-    * `D4`: Variable naming rules
-    * `D5`: Mathematical operations
-    * `D6`: Data types
-    * `D7`: Converting types
-    * `D8`: Conditionals (IF/ELIF/ELSE)
-    * `D9`: Logical operators
-    * `D10`: Randomisation
-    * `D11`: Error handling
-    * `D12`: Functions
-    * `D13`: For lopps
-    * `D14`: Code blocks and indentation
-    * `D15`: While loops
-    * `D16`: Flowchart programming
-    * `D17`: Positional and keyword arguments
-    * `D18`: Python dictionaries and lists
-    * `D19`: Nested collections
-    * `D20`: Returning functions
-    * `D21`: Return vs print
-    * `D22`: Doc strings vs comments
-    * `D23`: Scope and local/global variables
-    * `D24`: Debugging techniques
+    * `001`: Variables
+    * `002`: String manipulation
+    * `003`: Input and print functions
+    * `004`: Variable naming rules
+    * `005`: Mathematical operations
+    * `006`: Data types
+    * `007`: Converting types
+    * `008`: Conditionals (IF/ELIF/ELSE)
+    * `009`: Logical operators
+    * `010`: Randomisation
+    * `011`: Error handling
+    * `012`: Functions
+    * `013`: For lopps
+    * `014`: Code blocks and indentation
+    * `015`: While loops
+    * `016`: Flowchart programming
+    * `017`: Positional and keyword arguments
+    * `018`: Python dictionaries and lists
+    * `019`: Nested collections
+    * `020`: Returning functions
+    * `021`: Return vs print
+    * `022`: Doc strings vs comments
+    * `023`: Scope and local/global variables
+    * `024`: Debugging techniques
 
 * **Intermediate:** 
-    * `D25`: Local developer environment setup
-    * `D26`: PyCharm tips and tricks
-    * `D27`: Python object oriented programming
-    * `D28`: Creating classes in Python
-    * `D29`: Using external Python modules/import
-    * `D30`: Getting/setting attributes
-    * `D31`: Python methods
-    * `D32`: Class initialisers
-    * `D33`: Module aliasing
-    * `D34`: Optional, required and default parameters
-    * `D35`: Event listeners
-    * `D36`: Python instances and state
-    * `D37`: Python turtle
-    * `D38`: Game development with Python and OOP
-    * `D39`: Python inheritance
-    * `D40`: Python slice function
-    * `D41`: File I/O reading and writing to local files
-    * `D42`: File directories
-    * `D43`: Reading and writing to CSV
-    * `D44`: Introduction to the Pandas framework
-    * `D45`: List comprehensions
-    * `D46`: Dictionary comprehensions
-    * `D47`: Packing and unpacking functions in Python
-    * `D48`: Creating desktop GUI Apps with Tkinter
-    * `D49`: Strongly dinamic typing
-    * `D50`: Error handling and exceptions
-    * `D51`: Try/except/raise
-    * `D52`: Working with JSONs
-    * `D53`: Local persistence
-    * `D54`: Sending email with Python and SMTP
-    * `D55`: Workig with date and time
-    * `D56`: Hosting Python code online with PythonAnywhere
-    * `D57`: APIs
-    * `D58`: Making HTTP requests with the request module
-    * `D59`: Sending parameters with the request
-    * `D60`: APIs with authentication
-    * `D61`: Sending SMS with Python
-    * `D62`: Web scraping with beautiful soup
-    * `D63`: Browser automation with selenium web driver
-    * `D64`: Automating tinder
-    * `D65`: Automating twitter
-    * `D66`: Automating linkedin
-    * `D67`: Automating instagram
-    * `D68`: Web development with flask
-    * `D69`: Command line
-    * `D70`: Python decorators
-    * `D71`: Templating with jinja 2
-    * `D72`: WTForms
+    * `025`: Local developer environment setup
+    * `026`: PyCharm tips and tricks
+    * `027`: Python object oriented programming
+    * `028`: Creating classes in Python
+    * `029`: Using external Python modules/import
+    * `030`: Getting/setting attributes
+    * `031`: Python methods
+    * `032`: Class initialisers
+    * `033`: Module aliasing
+    * `034`: Optional, required and default parameters
+    * `035`: Event listeners
+    * `036`: Python instances and state
+    * `037`: Python turtle
+    * `038`: Game development with Python and OOP
+    * `039`: Python inheritance
+    * `040`: Python slice function
+    * `041`: File I/O reading and writing to local files
+    * `042`: File directories
+    * `043`: Reading and writing to CSV
+    * `044`: Introduction to the Pandas framework
+    * `045`: List comprehensions
+    * `046`: Dictionary comprehensions
+    * `047`: Packing and unpacking functions in Python
+    * `048`: Creating desktop GUI Apps with Tkinter
+    * `049`: Strongly dinamic typing
+    * `050`: Error handling and exceptions
+    * `051`: Try/except/raise
+    * `052`: Working with JSONs
+    * `053`: Local persistence
+    * `054`: Sending email with Python and SMTP
+    * `055`: Workig with date and time
+    * `056`: Hosting Python code online with PythonAnywhere
+    * `057`: APIs
+    * `058`: Making HTTP requests with the request module
+    * `059`: Sending parameters with the request
+    * `060`: APIs with authentication
+    * `061`: Sending SMS with Python
+    * `062`: Web scraping with beautiful soup
+    * `063`: Browser automation with selenium web driver
+    * `064`: Automating tinder
+    * `065`: Automating twitter
+    * `066`: Automating linkedin
+    * `067`: Automating instagram
+    * `068`: Web development with flask
+    * `069`: Command line
+    * `070`: Python decorators
+    * `071`: Templating with jinja 2
+    * `072`: WTForms
 
 * **Advanced:** 
-    * `D73`: Build your own REST API with Python
-    * `D74`: Build your own blog
-    * `D75`: Databases with SQLite
-    * `D76`: Dataframe inspection
-    * `D77`: Data cleaning
-    * `D78`: Sorting values in dataframes
-    * `D79`: Arithmatic operations with Pandas
-    * `D80`: Creating pivot tables
-    * `D81`: Chaining functions
-    * `D82`: Smoothing time series data
-    * `D83`: Creating line charts with Matplotlib
-    * `D84`: Using Jupyter notebook
-    * `D85`: HTML Markdown
-    * `D86`: Creating scatterplots wit Matplotlib
-    * `D87`: Relational database schemas
-    * `D88`: Descriptive statistics
-    * `D89`: Creating bar charts, pie charts, donut charts, box plots with Ploty
-    * `D90`: Creating NumPy NDArrays
-    * `D91`: Array slicing and subsetting
-    * `D92`: Matrix multiplication
-    * `D93`: Bitwise and operators in Pandas
-    * `D94`: Creating bubble charts with Seaborn
-    * `D95`: Running regressions with Scikit-Learn
-    * `D96`: Non-parametric regression
-    * `D97`: Students T-Test and histograms with Scikit-Learn
-    * `D98`: Multi-variable regression
-    * `D99`: Log transformations
-    * `D100`: Residuals analysis
+    * `073`: Build your own REST API with Python
+    * `074`: Build your own blog
+    * `075`: Databases with SQLite
+    * `076`: Dataframe inspection
+    * `077`: Data cleaning
+    * `078`: Sorting values in dataframes
+    * `079`: Arithmatic operations with Pandas
+    * `080`: Creating pivot tables
+    * `081`: Chaining functions
+    * `082`: Smoothing time series data
+    * `083`: Creating line charts with Matplotlib
+    * `084`: Using Jupyter notebook
+    * `085`: HTML Markdown
+    * `086`: Creating scatterplots wit Matplotlib
+    * `087`: Relational database schemas
+    * `088`: Descriptive statistics
+    * `089`: Creating bar charts, pie charts, donut charts, box plots with Ploty
+    * `090`: Creating NumPy NDArrays
+    * `091`: Array slicing and subsetting
+    * `092`: Matrix multiplication
+    * `093`: Bitwise and operators in Pandas
+    * `094`: Creating bubble charts with Seaborn
+    * `095`: Running regressions with Scikit-Learn
+    * `096`: Non-parametric regression
+    * `097`: Students T-Test and histograms with Scikit-Learn
+    * `098`: Multi-variable regression
+    * `099`: Log transformations
+    * `100`: Residuals analysis
 
 * **Professional Portfolio:** 
     * Text to morse code converter
